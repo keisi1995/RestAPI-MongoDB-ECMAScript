@@ -1,0 +1,7 @@
+/node_modules/
+/dist
+.env
+
+docker-compose.prod.yml
+docker-compose.dev.yml
+Dockerfile.prod
